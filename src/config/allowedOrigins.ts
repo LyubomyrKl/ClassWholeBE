@@ -2,4 +2,4 @@ const allowedOrigins = [
     'http://localhost:*',
 ]
 
-module.exports = allowedOrigins
+export default allowedOrigins;
